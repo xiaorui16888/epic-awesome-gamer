@@ -19,7 +19,7 @@ message_pusher_settings:
   pusher:
     PUSHER_EMAIL: ""
     PUSHER_DINGTALK: ""
-    PUSHER_TELEGRAM: "tgram://1902049021:AAF4R3NsU-rengS6DodR7DSTLYw-LK2jKKg/MTEyNzk4ODQ5NA=="
+    PUSHER_TELEGRAM: ""
     PUSHER_SERVERCHAN: ""
     PUSHER_DISCORD: ""
 
